@@ -1,7 +1,7 @@
 {
-  "title": "20211230_ブログ作成テスト",
+  "title": "海外移住を目指す自由ネコのブログ",
   "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Gatsbyで作成したブログです。",
+  "description": "海外移住を目指す自由ネコがCSと英語と関心事を書き綴るブログです。",
   "home": {
     "title": "ブログ作成テスト",
     "description": "Gatsbyで作成したブログです"
